@@ -21,3 +21,17 @@ header {
     justify-content: space-between;
     align-items:center;
 }
+
+#login-logo {
+
+    height:32px;
+    margin-left:24px;
+    margin-bottom:5px;
+
+}
+
+header h2 {
+
+    text-align: justify;
+    
+}
